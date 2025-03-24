@@ -23,7 +23,7 @@ Step 1: Clone the Repository
 
 git clone https://github.com/yourusername/Keylogger-Simulation.git
 
-cd Keylogger-Simulation
+cd Key_logger_simulation
 
 
 Step 2: Create a Virtual Environment (Optional but Recommended)
