@@ -21,7 +21,7 @@ This project is a simple keylogger simulation using Python and the pynput librar
 
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/Keylogger-Simulation.git
+git clone https://github.com/Aamina196/Key_logger_Simulation.git
 
 cd Key_logger_simulation
 
