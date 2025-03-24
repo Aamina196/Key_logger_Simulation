@@ -50,15 +50,14 @@ Press Esc to stop logging.
 
 📂 File Structure
 
-Keylogger-Simulation/
-
-│── logs/                 
-
-│── keylogger.py         
-
-│── requirements.txt       
-
-│── README.md              
+Key_logger_simulation/        
+│── src/                      
+│   │── keylogger.py         
+│   │── barchart.py.py      
+│── logs/                     
+│   └── keylog.txt                          
+│── requirements.txt          
+│── README.md                      
 
 ⚠️ Disclaimer
 
