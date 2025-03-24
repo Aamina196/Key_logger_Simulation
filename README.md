@@ -23,7 +23,7 @@ Step 1: Clone the Repository
 
 git clone https://github.com/Aamina196/Key_logger_Simulation.git
 
-cd Key_logger_simulation
+cd Key_logger_Simulation
 
 
 Step 2: Create a Virtual Environment (Optional but Recommended)
